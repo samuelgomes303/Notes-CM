@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes CM</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name ="Note">Note</string>
+    <string name ="Date">Date</string>
+    <string name ="Save">Save</string>
+    <string name ="Delete">Delete</string>
+    <string name ="Back">Back</string>
+</resources>

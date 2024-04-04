@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notas CM</string>
+    <string name="hello_blank_fragment">OLA</string>
+    <string name ="Note">Nota</string>
+    <string name ="Date">Data</string>
+    <string name ="Save">Guardar</string>
+    <string name ="Delete">Apagar</string>
+    <string name ="Back">Voltar</string>
+</resources>
